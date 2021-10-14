@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(3, 3, 246);
+    font-family: sans-serif;
+    margin-top: 15px;
+}
+.joshisgood{
+background-color: darkcyan;
+font-size: 25px;
+color: rgb(5, 255, 5);
+}
+.joshisgood p{
+    letter-spacing: 3px;
+    color: rgb(170, 157, 255);
+}
+button{
+    margin-top: 15px;
+width: 100px;
+letter-spacing: 3px;
+font-weight: bold;
+height: 35.9px;
+}
+h3{
+    color: blanchedalmond;
+}
+.footer{
+    background-color: rgb(255, 136, 0);
+line-height: 2;
+text-align: center;
+bottom: 0;
+font-size: 40px;
+color: rgb(19, 148, 30);
+position:fixed;
+width: 100%;
+text-shadow: 5px 5px 5px;
+}
